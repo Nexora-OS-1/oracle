@@ -25,7 +25,7 @@ The self-check covers byte formatting, UTF-8 detection, keyword findings, limita
 
 ## Release package
 
-The versioned self-contained publish is in `releases\2.0.0-build4\win-x64\`. The website download package is `website\downloads\ORACLE-2.0.0-win-x64-build4.zip`. Extract the ZIP, then run `ORACLE.exe`. No installer is included. The app is unsigned; Windows SmartScreen may show a warning. No Microsoft signature or security certification is claimed.
+The self-contained x64 download included in this repository is `website\deploy\downloads\ORACLE-2.0.0-win-x64-build4.zip`. Extract the ZIP, then run `ORACLE.exe`. No installer is included. The app is unsigned; Windows SmartScreen may show a warning. No Microsoft signature or security certification is claimed. Generated `bin`, `obj`, and expanded `releases` output directories are excluded from Git; create a new output directory when publishing from source.
 
 To reproduce the x64 publish into a new empty release directory:
 
