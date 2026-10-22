@@ -2,6 +2,10 @@
 
 This is a static site built with plain HTML, CSS, and JavaScript. It has no install/build step and no analytics or third-party runtime dependencies. It includes a clearly labelled illustrative interface preview rather than claiming a screenshot of the running app.
 
+## Live site
+
+The public website is hosted at [https://nexora-os-1.github.io/oracle-desktop/](https://nexora-os-1.github.io/oracle-desktop/). The GitHub Actions workflow in `.github/workflows/pages.yml` publishes the contents of `website/deploy` on each push to `main`.
+
 ## Preview locally
 
 The deployable site is the clean `website\deploy` directory. From that directory, run:

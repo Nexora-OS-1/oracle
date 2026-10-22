@@ -48,4 +48,4 @@ App data inspection and settings are local. The app contains no account flow, te
 
 ## Website
 
-The static site lives in `website\`. See [website/README.md](website/README.md) for local preview and deployment instructions. Its package manifest is generated from the real ZIP, and the download is enabled only if the package can be reached.
+The live site is [nexora-os-1.github.io/oracle-desktop](https://nexora-os-1.github.io/oracle-desktop/). The static site source lives in `website\`; GitHub Pages publishes `website\deploy\` through `.github\workflows\pages.yml` whenever `main` is updated. See [website/README.md](website/README.md) for local preview and deployment instructions. Its package manifest is generated from the real ZIP, and the download is enabled only if the package can be reached.
