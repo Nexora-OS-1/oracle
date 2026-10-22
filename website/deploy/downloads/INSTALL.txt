@@ -1,0 +1,9 @@
+ORACLE 2.0.0 · Windows x64
+
+1. Extract the complete ZIP file to a folder.
+2. Open that folder and run ORACLE.exe.
+3. No installer or separate .NET runtime is required for this self-contained package.
+
+ORACLE is unsigned. Windows SmartScreen may display a warning. Only continue if you trust the source of this download. A SHA-256 package checksum is shown on the ORACLE website.
+
+The application does not require administrator access. It does not execute files selected for inspection or run code entered in the snippet editor.

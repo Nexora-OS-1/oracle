@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "architecture": "x64",
+  "selfContained": true,
+  "packageType": "Self-contained ZIP",
+  "package": "downloads/ORACLE-2.0.0-win-x64-build4.zip",
+  "bytes": 65139710,
+  "size": "65.1 MB (62.1 MiB)",
+  "sha256": "17023EA5C3E57832D6AFACF9CEA8E9442EF5D30BCE62F5260C6C7E1BD926ABDA"
+}

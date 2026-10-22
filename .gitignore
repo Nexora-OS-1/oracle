@@ -1,0 +1,14 @@
+# Build outputs and intermediate files
+**/bin/
+**/obj/
+/releases/
+
+# Older generated package copies; website/deploy keeps the current verified download
+/website/downloads/
+
+# Local editor and OS metadata
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
